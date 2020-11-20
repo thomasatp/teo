@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/teo/static/css/main.82262d61.chunk.css",
-    "main.js": "/teo/static/js/main.872f5713.chunk.js",
-    "main.js.map": "/teo/static/js/main.872f5713.chunk.js.map",
+    "main.css": "/teo/static/css/main.d3f0d9e0.chunk.css",
+    "main.js": "/teo/static/js/main.20081f97.chunk.js",
+    "main.js.map": "/teo/static/js/main.20081f97.chunk.js.map",
     "runtime-main.js": "/teo/static/js/runtime-main.0a4d5707.js",
     "runtime-main.js.map": "/teo/static/js/runtime-main.0a4d5707.js.map",
-    "static/js/2.9222b69f.chunk.js": "/teo/static/js/2.9222b69f.chunk.js",
-    "static/js/2.9222b69f.chunk.js.map": "/teo/static/js/2.9222b69f.chunk.js.map",
+    "static/js/2.caf1bbc8.chunk.js": "/teo/static/js/2.caf1bbc8.chunk.js",
+    "static/js/2.caf1bbc8.chunk.js.map": "/teo/static/js/2.caf1bbc8.chunk.js.map",
     "index.html": "/teo/index.html",
-    "precache-manifest.ec26f323b750e8e479f78c523c4fd979.js": "/teo/precache-manifest.ec26f323b750e8e479f78c523c4fd979.js",
+    "precache-manifest.8969e1e54821e26f458a2976f4d10885.js": "/teo/precache-manifest.8969e1e54821e26f458a2976f4d10885.js",
     "service-worker.js": "/teo/service-worker.js",
-    "static/css/main.82262d61.chunk.css.map": "/teo/static/css/main.82262d61.chunk.css.map",
-    "static/js/2.9222b69f.chunk.js.LICENSE.txt": "/teo/static/js/2.9222b69f.chunk.js.LICENSE.txt",
-    "static/media/teo.svg": "/teo/static/media/teo.7c09ec4a.svg"
+    "static/css/main.d3f0d9e0.chunk.css.map": "/teo/static/css/main.d3f0d9e0.chunk.css.map",
+    "static/js/2.caf1bbc8.chunk.js.LICENSE.txt": "/teo/static/js/2.caf1bbc8.chunk.js.LICENSE.txt",
+    "static/media/pushAxel1.jpg": "/teo/static/media/pushAxel1.93109704.jpg",
+    "static/media/pushAxel2.jpg": "/teo/static/media/pushAxel2.6e9f113b.jpg",
+    "static/media/pushAxel3.jpg": "/teo/static/media/pushAxel3.c8653c60.jpg",
+    "static/media/pushAxel4.jpg": "/teo/static/media/pushAxel4.e4f77d9e.jpg",
+    "static/media/pushAxel5.jpg": "/teo/static/media/pushAxel5.492a4d76.jpg",
+    "static/media/pushAxel6.jpg": "/teo/static/media/pushAxel6.2d2afa9a.jpg",
+    "static/media/pushAxel7.jpg": "/teo/static/media/pushAxel7.d18fa7e5.jpg",
+    "static/media/pushAxel8.jpg": "/teo/static/media/pushAxel8.56e090bd.jpg",
+    "static/media/pushAxel9.jpg": "/teo/static/media/pushAxel9.e59089ae.jpg",
+    "static/media/teo.svg": "/teo/static/media/teo.7c09ec4a.svg",
+    "static/media/teoBlack.svg": "/teo/static/media/teoBlack.06d80544.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0a4d5707.js",
-    "static/js/2.9222b69f.chunk.js",
-    "static/css/main.82262d61.chunk.css",
-    "static/js/main.872f5713.chunk.js"
+    "static/js/2.caf1bbc8.chunk.js",
+    "static/css/main.d3f0d9e0.chunk.css",
+    "static/js/main.20081f97.chunk.js"
   ]
 }
