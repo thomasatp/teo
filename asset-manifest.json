@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teoquitellic/static/css/main.d08fec4d.chunk.css",
+    "main.js": "/teoquitellic/static/js/main.cb723419.chunk.js",
+    "main.js.map": "/teoquitellic/static/js/main.cb723419.chunk.js.map",
+    "runtime-main.js": "/teoquitellic/static/js/runtime-main.8398fbff.js",
+    "runtime-main.js.map": "/teoquitellic/static/js/runtime-main.8398fbff.js.map",
+    "static/js/2.72442180.chunk.js": "/teoquitellic/static/js/2.72442180.chunk.js",
+    "static/js/2.72442180.chunk.js.map": "/teoquitellic/static/js/2.72442180.chunk.js.map",
+    "index.html": "/teoquitellic/index.html",
+    "precache-manifest.d77426524393e00527d0c4264a1dcf20.js": "/teoquitellic/precache-manifest.d77426524393e00527d0c4264a1dcf20.js",
+    "service-worker.js": "/teoquitellic/service-worker.js",
+    "static/css/main.d08fec4d.chunk.css.map": "/teoquitellic/static/css/main.d08fec4d.chunk.css.map",
+    "static/js/2.72442180.chunk.js.LICENSE.txt": "/teoquitellic/static/js/2.72442180.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8398fbff.js",
+    "static/js/2.72442180.chunk.js",
+    "static/css/main.d08fec4d.chunk.css",
+    "static/js/main.cb723419.chunk.js"
+  ]
+}
