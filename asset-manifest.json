@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/teo/static/css/main.9df4d764.chunk.css",
-    "main.js": "/teo/static/js/main.dcd016c3.chunk.js",
-    "main.js.map": "/teo/static/js/main.dcd016c3.chunk.js.map",
+    "main.css": "/teo/static/css/main.82262d61.chunk.css",
+    "main.js": "/teo/static/js/main.872f5713.chunk.js",
+    "main.js.map": "/teo/static/js/main.872f5713.chunk.js.map",
     "runtime-main.js": "/teo/static/js/runtime-main.0a4d5707.js",
     "runtime-main.js.map": "/teo/static/js/runtime-main.0a4d5707.js.map",
-    "static/js/2.98e36d0b.chunk.js": "/teo/static/js/2.98e36d0b.chunk.js",
-    "static/js/2.98e36d0b.chunk.js.map": "/teo/static/js/2.98e36d0b.chunk.js.map",
+    "static/js/2.9222b69f.chunk.js": "/teo/static/js/2.9222b69f.chunk.js",
+    "static/js/2.9222b69f.chunk.js.map": "/teo/static/js/2.9222b69f.chunk.js.map",
     "index.html": "/teo/index.html",
-    "precache-manifest.9c8db0985aee501f98cc00f4c5be87e6.js": "/teo/precache-manifest.9c8db0985aee501f98cc00f4c5be87e6.js",
+    "precache-manifest.ec26f323b750e8e479f78c523c4fd979.js": "/teo/precache-manifest.ec26f323b750e8e479f78c523c4fd979.js",
     "service-worker.js": "/teo/service-worker.js",
-    "static/css/main.9df4d764.chunk.css.map": "/teo/static/css/main.9df4d764.chunk.css.map",
-    "static/js/2.98e36d0b.chunk.js.LICENSE.txt": "/teo/static/js/2.98e36d0b.chunk.js.LICENSE.txt",
+    "static/css/main.82262d61.chunk.css.map": "/teo/static/css/main.82262d61.chunk.css.map",
+    "static/js/2.9222b69f.chunk.js.LICENSE.txt": "/teo/static/js/2.9222b69f.chunk.js.LICENSE.txt",
     "static/media/teo.svg": "/teo/static/media/teo.7c09ec4a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0a4d5707.js",
-    "static/js/2.98e36d0b.chunk.js",
-    "static/css/main.9df4d764.chunk.css",
-    "static/js/main.dcd016c3.chunk.js"
+    "static/js/2.9222b69f.chunk.js",
+    "static/css/main.82262d61.chunk.css",
+    "static/js/main.872f5713.chunk.js"
   ]
 }
